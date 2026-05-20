@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 301
+    },
+    "objects": [
+        {
+            "id": 14194133,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:38:49.142Z",
+            "updatedAt": "2023-07-06T10:38:49.142Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        185
+                    ],
+                    [
+                        183,
+                        336
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

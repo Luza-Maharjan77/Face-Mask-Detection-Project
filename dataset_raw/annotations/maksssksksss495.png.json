@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 225,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 14193490,
+            "classId": 20378,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:37:12.451Z",
+            "updatedAt": "2023-07-06T10:37:12.451Z",
+            "tags": [],
+            "classTitle": "without_mask",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        47
+                    ],
+                    [
+                        26,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14193489,
+            "classId": 20380,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:37:12.450Z",
+            "updatedAt": "2023-07-06T10:37:12.450Z",
+            "tags": [],
+            "classTitle": "mask_weared_incorrect",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        24
+                    ],
+                    [
+                        134,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14193488,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:37:12.450Z",
+            "updatedAt": "2023-07-06T10:37:12.450Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        174
+                    ],
+                    [
+                        168,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14193487,
+            "classId": 20378,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:37:12.449Z",
+            "updatedAt": "2023-07-06T10:37:12.449Z",
+            "tags": [],
+            "classTitle": "without_mask",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        64
+                    ],
+                    [
+                        224,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14193486,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:37:12.449Z",
+            "updatedAt": "2023-07-06T10:37:12.449Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        70
+                    ],
+                    [
+                        267,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14193485,
+            "classId": 20378,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:37:12.448Z",
+            "updatedAt": "2023-07-06T10:37:12.448Z",
+            "tags": [],
+            "classTitle": "without_mask",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        61
+                    ],
+                    [
+                        330,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14193484,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:37:12.448Z",
+            "updatedAt": "2023-07-06T10:37:12.448Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        189
+                    ],
+                    [
+                        356,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14193483,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:37:12.447Z",
+            "updatedAt": "2023-07-06T10:37:12.447Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        117
+                    ],
+                    [
+                        388,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14193482,
+            "classId": 20378,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:37:12.446Z",
+            "updatedAt": "2023-07-06T10:37:12.446Z",
+            "tags": [],
+            "classTitle": "without_mask",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        53
+                    ],
+                    [
+                        389,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

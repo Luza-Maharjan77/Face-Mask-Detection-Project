@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 225,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 14192713,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:34:46.055Z",
+            "updatedAt": "2023-07-06T10:34:46.055Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        54
+                    ],
+                    [
+                        345,
+                        133
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14192712,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:34:46.052Z",
+            "updatedAt": "2023-07-06T10:34:46.052Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        67
+                    ],
+                    [
+                        237,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14192711,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:34:46.052Z",
+            "updatedAt": "2023-07-06T10:34:46.052Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        57
+                    ],
+                    [
+                        106,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

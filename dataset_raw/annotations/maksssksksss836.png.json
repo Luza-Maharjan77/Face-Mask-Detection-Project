@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 313,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 14192003,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:31:37.695Z",
+            "updatedAt": "2023-07-06T10:31:37.695Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        88
+                    ],
+                    [
+                        277,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14192002,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:31:37.694Z",
+            "updatedAt": "2023-07-06T10:31:37.694Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        186
+                    ],
+                    [
+                        179,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14192001,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:31:37.694Z",
+            "updatedAt": "2023-07-06T10:31:37.694Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        158
+                    ],
+                    [
+                        125,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14192000,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:31:37.694Z",
+            "updatedAt": "2023-07-06T10:31:37.694Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        201,
+                        68
+                    ],
+                    [
+                        231,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14191999,
+            "classId": 20379,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:31:37.693Z",
+            "updatedAt": "2023-07-06T10:31:37.693Z",
+            "tags": [],
+            "classTitle": "with_mask",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        79
+                    ],
+                    [
+                        143,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

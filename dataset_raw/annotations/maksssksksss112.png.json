@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 267
+    },
+    "objects": [
+        {
+            "id": 14190590,
+            "classId": 20380,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T10:26:39.475Z",
+            "updatedAt": "2023-07-06T10:26:39.475Z",
+            "tags": [],
+            "classTitle": "mask_weared_incorrect",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        84
+                    ],
+                    [
+                        138,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
